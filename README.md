@@ -12,7 +12,7 @@
 
 ## Файлы проекта: 
   - analysis.ipynb --- программа, реализующая задание;
-  - presentation.pdf --- исходный код презентации;
+  - presentation.tex --- исходный код презентации;
   - presentation.pdf --- презентация;
   - diff_produced.png, defect_rate.png, Number_of_produced.png, Number_defects_total.png, Number_defects_per_month.png - графики и гистограммы.
   - README.md --- описание проекта.
